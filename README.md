@@ -1,0 +1,2 @@
+# nopcommerce-plugin-example
+NopcommercePluginExempel
